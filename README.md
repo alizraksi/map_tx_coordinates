@@ -1,6 +1,6 @@
 # Bioinformatics Exercise #
 
-The goal of this software that translates transcript coordinates to genomic coordinates.
+The goal of this software is to translate transcript coordinates to genomic coordinates.
 
 The questions are addressed in the docstrings within the code (strengths and weaknesses, how the code was tested, etc.).
 
